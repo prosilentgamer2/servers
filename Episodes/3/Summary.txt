@@ -1,0 +1,3 @@
+https://youtu.be/xaHKxrakSe0
+
+In this video we cover everything from correctly forwarding the necessary ports for FiveM and testing to see if they are open. .
